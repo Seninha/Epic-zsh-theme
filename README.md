@@ -8,7 +8,7 @@ Here's a preview of the prompt:
 
 ![Seninha's Bash Prompt](http://seninha.net/stuff/prompt.png)
 
-Instalation
+Installation
 -----------
 
 ### Using [Antigen][]:
@@ -18,7 +18,7 @@ Instalation
 To install the theme, add the following line to your .zshrc:
 
 ```zsh
-antigen theme Seninha/Epic-zsh-theme
+antigen theme Seninha/Epic-zsh-theme epic
 ```
 
 
